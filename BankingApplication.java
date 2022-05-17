@@ -4,7 +4,7 @@ package bankapp;
 import java.util.Scanner;
 
 
-	class BankingApplication
+	class BankDetails
 	{
 		private String accno;
 		private String name;
